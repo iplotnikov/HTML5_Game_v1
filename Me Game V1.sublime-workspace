@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"a",
+				"article"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"esc",
+				"esc_html"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"content",
+				"content-box"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-sun/pm_layouts/PostmediaLayoutsTheme.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-plugins/flyercity/postmedia-flyercity.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-plugins/flyercity/PostmediaFlyercityWidget.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/classes/Postmedia/Web/Widgets/BusinessWire.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/classes/Postmedia/Web/Widgets/TeamScoreboard.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/classes/Postmedia/Web/Widgets/TopChartbeatStories.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/functions/markit.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/alerts-email-confirmation.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/alerts-unsubscribe.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/alerts.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/etf-profile.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/markets.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/mutual-fund.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/stock-profile-financials.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/stock-profile-news.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/stock-profile.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/js/markets/watchlist.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/tests/data/today-byteam.js.asp",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/tests/data/today.js.asp",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/single.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/templates/content/master-gallery.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/templates/content/master.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-single-plus-simple-li.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-single-plus-pullquote-li.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-simple-excerpt-li.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-simple-excerpt-li-mobile.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-simple-discussion-li.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/content-search.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/content-gallery-posts.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-0.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/PostmediaLayoutsTheme.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/content-author.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/pm_layouts/list/list-single-slider-simple-li.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/classes/Postmedia/Web/Widgets/Classifieds.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/pm_layouts/PostmediaLayoutsTheme.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/templates/layouts/image.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-npfp/templates/layouts/image.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/classes/Postmedia/Web/Theme/Broadsheet.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/classes/Postmedia/Web/Widgets/Classifieds/css/classifieds-pre-min.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-sun/classes/Postmedia/Web/Widgets/WidgetClassifieds.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/scss/theme/common/header-mobile-above-fold.scss",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/scss/theme/common/header-mobile.scss",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/css/main-mobile-above-fold.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/scss/theme/common/header.scss",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/css/main.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/templates/content/sponsored-category.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/functions.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-plugins/postmedia-plugin-layouts/classes/PostmediaLayouts.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-theprovince/functions.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-sun/classes/Postmedia/Web/Widgets/SunshineGirl.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-sun/classes/Postmedia/Web/Widgets/BecomeSunshineGirl.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/js/single.js",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/css/versus.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-sun/templates/snapgalleries/initialize.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/classes/Postmedia/Web/Theme/Broadsheet.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/classes/Postmedia/Web/Widgets/NativeAdCollection.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/css/main-above-fold.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/css/main-mobile-above-fold.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/css/widgets.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/functions/extras.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-0.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-1.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-10.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-11.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-12.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-13.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-14.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-15.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-16.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-17.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-2.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-3.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-4.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-5.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-6.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-7.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-8.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/outfit/outfit-9.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-0.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-1.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-10.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-2.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-3.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-4.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-5.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-6.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-7.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-8.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/phone/phone-9.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-0.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-1.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-2.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-3.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-4.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-5.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/section-6.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/pm_layouts/ticker/ticker-native-ad-collection.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/scss/theme/common/ads.scss",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/tests/bootstrap.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/tests/custom_tests/classes/Postmedia/Web/Widgets/test-native-ad-collection.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/templates/longform/css/feature-template-main.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/templates/longform/css/longform.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-broadsheet/templates/longform/longform-top-sidebar.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/templates/longform/css/feature-template-main.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/templates/longform/css/longform.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/templates/longform/longform-top-sidebar.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/css/widgets.css",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/classes/Postmedia/Web/Widgets/NativeAdCollection.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/functions.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/ticker/ticker-native-ad-collection.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/tests/bootstrap.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/tests/custom_tests/test-widget-native-ad-collection.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-0.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-1.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-10.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-11.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-12.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-13.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-14.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-15.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-16.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-17.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-2.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-3.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-4.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-5.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-6.php",
+		"/C/xampp/htdocs/POSTMEDIA/wp-content/themes/vip/postmedia-theme-communities/pm_layouts/outfit/outfit-7.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp,<open files>",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-broadsheet",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-broadsheets",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-broadsheet",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-communities",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-communites",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-broadsheet",
+			"<open folders>",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-theprovince",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-broadsheet",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun\\pm_layouts\\phone",
+			"<open folders>",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip/postmedia-plugins/photo-galleries",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip/postmedia-plugins/postmedia-plugin-sunshinegalleries",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip/",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip/postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip/postmedia-theme-sun/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip/postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-theprovince",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-province",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun\\",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-sun",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"<open files>",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp/scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp\\scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-theprovince\\scss",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins\\postmedia-library",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-theprovince",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp\\pm_layouts\\oftpl",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins\\postmedia-layouts",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-theprovince",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp\\pm_layouts\\outfit",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins,C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-npfp",
+			"",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-core,C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-core",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins,C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-theme-theprovince",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-plugins",
+			"C:\\xampp\\htdocs\\POSTMEDIA\\wp-content\\themes\\vip\\postmedia-web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lfpress",
+			"wp_kses",
+			"\"></div>",
+			"'<div id=\"",
+			"safe_format_continue_link( $post",
+			"if ( empty( $post->thumbnail ) ) {",
+			"safe_format_title( $post",
+			"safe_format_title",
+			"post_url",
+			"$content->url",
+			"slim",
+			"postmedia_plugins",
+			"flyercity",
+			"myplugin_styles",
+			"utility_widget_settings",
+			"prepare_outfit_widgets",
+			"sunshine_girl_widget.css",
+			"ad-holder",
+			"adsizewrapper",
+			"nativeadcollection",
+			"rightrail-nativeadcollection",
+			"main-nativeadcollection",
+			"ad_well",
+			"nativeadcontent",
+			"nativead",
+			"nativeadcollection",
+			"rightrail-nativeadcollection",
+			"main-nativeadcollection",
+			"ad_well ",
+			"nativeadcontent ",
+			"ad-holder",
+			"ad_1050",
+			"ad_600",
+			"ad_250",
+			"adsizewrapper ",
+			"http:",
+			"http",
+			"remote.html",
+			"vendor",
+			"action_admin_enqueue_scripts",
+			"is_active_widget",
+			"action_enqueue_scripts",
+			"wp_enqueue_scripts",
+			"action_admin_enqueue_scripts",
+			"output_outfitstyle_posts",
+			"pn_post_to_content",
+			"safe_fon",
+			"safe_format_excerpt",
+			"get_additional_excerpt",
+			"category",
+			"play_video_allowed",
+			"thumb_play_video_allowed",
+			"featured_gallery",
+			"show-watch-label",
+			"$featured_video->display( array( 'autoplay' => 'true', 'featured' => 'true' ) );",
+			"$featured_video",
+			"feature_video->display(",
+			"display",
+			"description",
+			"featured_video",
+			"description",
+			"twit",
+			"tw",
+			"page-traffic",
+			"alerts",
+			"weather",
+			"pollDaddy",
+			"polldaddy",
+			"poll",
+			"action_wp_footer",
+			"wp_enqueue_style",
+			"pn_get_facebook_credentials()",
+			"_pn_head_meta_facebook()",
+			"pn_get_facebook_credentials()",
+			"related-posts",
+			"articleBody",
+			"[itemprop=articleBody]",
+			"sunshine-girls",
+			"<meta name=\"msvalidate",
+			"bi",
+			"bing",
+			"widgetHeight ",
+			"stickyWidget",
+			"contactScroll",
+			">\n",
+			"comics",
+			"pazzles",
+			"puzzles_config",
+			"image_alt",
+			"daddys_home",
+			"name",
+			"top-headline",
+			".mobile",
+			".outfit.mobile",
+			"widget_postmedia_layouts_ad",
+			"entry-featured-media-container",
+			"display_list",
+			"getPreventDefault",
+			"ad-holder",
+			"native",
+			"story_well",
+			"nativead",
+			"main-nativeadcollection",
+			"nativead",
+			"rightrail-nativeadcollection",
+			"nativead",
+			"_well",
+			"story_well",
+			"nativead",
+			".rightrail-nativeadcollection .nativecontent h4.entry-title a {\n.rightrail-nativeadcollection .nativecontent h4.entry-title a {\nnativead",
+			"story_well",
+			"ad_well",
+			"story_well",
+			"ad_well",
+			"ad_600",
+			".ad_",
+			".nativead",
+			"\"nativead",
+			"nativead",
+			"important",
+			"PDS_Poll",
+			".pn_kaltura",
+			".scoreboard-widget",
+			"widget-outfit-sunshine-girl",
+			"dynamic_favicon",
+			"get_blavatar",
+			"favicon",
+			"avatar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"'",
+			"safe_format_continue_link( $content",
+			"if ( empty( $content->featured_image() ) ) {",
+			"safe_format_title( $content",
+			"story-holder",
+			"sizewrapper",
+			"nativecollection",
+			"rightrail-nativecollection",
+			"main-nativecollection",
+			"nativecontent",
+			"native",
+			"nativecollection",
+			"rightrail-nativecollection",
+			"main-nativecollection",
+			"story-well",
+			"nativecontent",
+			"story-holder",
+			"layout-1050",
+			"layout-600",
+			"layout-250",
+			"sizewrapper",
+			"main-nativecollection",
+			"rightrail-nativecollection",
+			"story_well",
+			".native",
+			"\"native",
+			"\"native-wrap",
+			"native-wrap",
+			"pn_ads_txt",
+			"( $content )",
+			"$vidconfig",
+			" $",
+			" ",
+			"",
+			"term_exists",
+			"",
+			"<p class=\"h4\">H4: Lorem ipsum dolor sit amet</p>",
+			"",
+			"<p class=\"h4\">H4: Lorem ipsum dolor sit amet</p>",
+			"",
+			"<div class=\"pmadmin_content\">\n							<p class=\"cat pmadmin_cat\">Category label</p>\n							<p class=\"h4\">H4: Lorem ipsum dolor sit amet </p>\n						</div>",
+			"<p class=\"cat pmadmin_cat\">Category label</p>\n					<p class=\"h4\">H4: Lorem ipsum dolor sit amet</p>",
+			"",
+			"<article class=\"pmadmin_post pmadmin_video pmadmin_video_0\" style=\"min-height:65px;\">\n					<div class=\"pmadmin_content\" style=\"margin-bottom:0; margin-top:0px;\">",
+			"",
+			"{",
+			"\"cat pmadmin_cat",
+			"@include",
+			"&:hover{ @incluede text-style-headlines-hover; }",
+			"pmadmin_widget_1",
+			"pmadmin_widget_0",
+			"pmadmin_widget_3",
+			"active_widget_0",
+			"active_widget_1",
+			"active_widget_3",
+			"active_widget_1",
+			"    ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}
